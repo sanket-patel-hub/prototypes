@@ -1,0 +1,23 @@
+{
+  "name": "react-todo-app",
+  "version": "0.0.1",
+  "description": null,
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "4.6.0",
+    "jsx-runtime": "1.2.0",
+    "react": "16.9.0",
+    "react-bootstrap": "1.6.4",
+    "react-bootstrap-icons": "1.7.2",
+    "react-dom": "16.9.0"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

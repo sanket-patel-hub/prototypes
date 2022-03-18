@@ -1,4 +1,4 @@
-<h1>React Prototype</h1>
+<h1>React Timer Prototype</h1>
 
 <p>This prototype provides below two functions.</p>
 <ul>
@@ -15,6 +15,5 @@ This function helps to count number of click made by user.
 <p>
 This function provide 24 hours based digitail clock.
 </p>
-
 
 ### Note:- Next version will be available soon...
