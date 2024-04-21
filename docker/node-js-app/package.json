@@ -15,6 +15,6 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/sanket-patel-hub/prototypes.git"
+        "url": "https://github.com/sanket-patel-hub/prototypes/tree/master/docker/node-js-app"
     }
   }
