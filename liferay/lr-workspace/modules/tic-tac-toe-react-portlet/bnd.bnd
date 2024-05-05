@@ -1,0 +1,4 @@
+Bundle-Name: tic-tac-toe-react-web
+Bundle-SymbolicName: com.proto.game.tic.tac.toe.portlet
+Bundle-Version: 1.0.0
+Web-ContextPath: /tic-tac-toe-react-web
